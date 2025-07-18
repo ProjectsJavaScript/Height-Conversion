@@ -5,6 +5,7 @@ Une application web simple qui permet aux utilisateurs de convertir une taille (
 ---
 
 ## 📋 Description générale
+
 Height Conversion est une application web éducative et utilitaire conçue pour :
 
 🌍 Permettre aux utilisateurs du monde entier de convertir leur taille dans des unités qu'ils comprennent.
@@ -12,8 +13,6 @@ Height Conversion est une application web éducative et utilitaire conçue pour 
 🔄 Offrir une conversion en temps réel ou par bouton.
 
 ✅ Accepter une saisie en pieds et pouces (feet & inches) ou en centimètres, et afficher le résultat converti dans l’autre unité.
-
-
 
 ---
 
@@ -50,21 +49,18 @@ Height Conversion est une application web éducative et utilitaire conçue pour 
 
 160 cm = 5 ft 2.99 in
 
-## 📸 Capture d'écran 
+## 📸 Capture d'écran
 
 Ajoute ici une capture si tu veux :
-
 
 ![Aperçu de Number Guessing Game](./screenshot.png)
 
 ## 🔗 Démo en ligne
 
-👉 [Clique ici pour essayer Number Guessing Game](https://abdelwaheb-net.github.io/Height-Conversion
-/)
-
-
+👉 [Clique ici pour essayer Number Guessing Game](https://projectsjavascript.github.io/Height-Conversion/)
 
 ## 📁 Structure du projet
+
 ```
 Height-Conversion/
 ├──JQuery
@@ -74,9 +70,11 @@ Height-Conversion/
 ├── script.js
 └── README.md
 ```
+
 ## 📄 Licence
 
 Ce projet est open-source sous licence MIT.
+
 ### 🌐 Langue / Language
 
 - 🇫🇷 [Lire en Français](./README.fr.md)
